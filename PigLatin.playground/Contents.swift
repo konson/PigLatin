@@ -4,7 +4,7 @@
 //
 // Transforms each word by adding first letter to the end of the word and then adding "ay".
 // Numbers and punctuation are accounted for.
-// If a words starts with a vowel or is a single letter word, only the "ay" is added to end.
+// If a word starts with a vowel or is a single letter word, only the "ay" is added to end.
 // Punctuation within the word is ignored (i.e. "didn't")
 // Only the first letter of the word is moved. Sounds like "th", "ch" and "sh" are not accommodated.
 
